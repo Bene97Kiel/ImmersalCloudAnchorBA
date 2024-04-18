@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc42adeda0fd49428221fed59a896de, type: 3}
+  m_Name: 3D Icons
+  m_EditorClassIdentifier: 
+  publisher: Tiny Giant Studio
+  packages:
+  - packageName: Sample Scene
+    package: {fileID: 102900000, guid: 619638576dc72dd4a833d850c0cc9187, type: 3}
+    Description: 
+    hasPipelineDependancy: 1
+    targetPipeline: 2
+    minimumPipelineVersion: 0000000000000000
+    maximumPipelineVersion: 0000000000000000
+    hasUnityVersionDependancy: 0
+    minimumUnityVersion: 0
+    maximumUnityVersion: 0
+    currentVersion: 1
+    lastInstalledVersion: 0
+    ignoreUpdates: 0
+  - packageName: Sample Scene
+    package: {fileID: 102900000, guid: bb5dfe651931c16448788537f325246e, type: 3}
+    Description: 
+    hasPipelineDependancy: 1
+    targetPipeline: 1
+    minimumPipelineVersion: 0000000000000000
+    maximumPipelineVersion: 0000000000000000
+    hasUnityVersionDependancy: 0
+    minimumUnityVersion: 0
+    maximumUnityVersion: 0
+    currentVersion: 1
+    lastInstalledVersion: 0
+    ignoreUpdates: 0
+  - packageName: Sample Secne
+    package: {fileID: 102900000, guid: 89c6a5d7a19c5f546ac1544ed7751dd7, type: 3}
+    Description: 
+    hasPipelineDependancy: 1
+    targetPipeline: 0
+    minimumPipelineVersion: 
+    maximumPipelineVersion: 
+    hasUnityVersionDependancy: 0
+    minimumUnityVersion: 0
+    maximumUnityVersion: 0
+    currentVersion: 1
+    lastInstalledVersion: 1
+    ignoreUpdates: 0

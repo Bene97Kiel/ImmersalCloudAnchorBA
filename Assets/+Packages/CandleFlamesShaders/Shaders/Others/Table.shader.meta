@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cb663d81123105743912987a66064d87
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _brown_planks_03_diff_2k: {fileID: 2800000, guid: a2d48a634e7e78f46afa10ee0caa55b5,
+      type: 3}
+  - _brown_planks_03_Nor_2k: {fileID: 2800000, guid: 1e05f42c77f96944f9ccef675eba93eb,
+      type: 3}
+  - _brown_planks_03_rough_2k: {fileID: 2800000, guid: f76f8b18900c1eb4bacd56ba8f5c41af,
+      type: 3}
+  - _brown_planks_03_AO_2k: {fileID: 2800000, guid: ac0840e2c2ee8494da928726c7157a53,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
